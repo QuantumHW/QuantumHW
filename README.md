@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<span>
+   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/-StackOverflow-yellow?style=flat&logo=stackoverflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-Markdown-origin?style=flat&logo=markdown&logoColor=white">
+</span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuantumHW&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumHW&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=QuantumHW&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumHW&layout=compact" />
+</a>
