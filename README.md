@@ -19,11 +19,8 @@ Here are some ideas to get you started:
   <img align="center" height="180px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=QuantumHW&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=QuantumHW&layout=compact&hide=javascript,html" />
+  <img align="center" height="180px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=QuantumHW&layout=compact" />
 </a>
-
-
-
 
 
 
