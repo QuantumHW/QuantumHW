@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2171F7&center=true&vCenter=true&width=435&lines=Hey+there!+I%E2%80%99m+Wen+Huang.;Progress%2C+not+perfection." alt="Typing SVG" />
 </a>
 
-### Hi there 👋😄
+### 👋😄
 
 <!--
 **QuantumHW/QuantumHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
