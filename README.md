@@ -24,8 +24,5 @@ Here are some ideas to get you started:
   <img align="center" height="180px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=QuantumHW&hide=javascript,html,css" />
 </a>
 
-
-    <!-- 前往https://skillicons.dev/ 生成，一个pc端，一个移动端，区别是一行的个数 -->
-  <img id="skillPc" src="./static/svg/skillPc.svg" alt="" srcset="">
-  <img id="skillWap" src="./static/svg/skillWap.svg" alt="" srcset="">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2171F7&center=true&vCenter=true&width=435&lines=Hey+there!+I%E2%80%99m+Wen+Huang.;Progress%2C+not+perfection." alt="Typing SVG" /></a>
 
