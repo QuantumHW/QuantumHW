@@ -24,4 +24,8 @@ Here are some ideas to get you started:
   <img align="center" height="180px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=QuantumHW&hide=javascript,html,css" />
 </a>
 
-
+<div class="skill">
+    <!-- 前往https://skillicons.dev/ 生成，一个pc端，一个移动端，区别是一行的个数 -->
+  <img id="skillPc" src="./static/svg/skillPc.svg" alt="" srcset="">
+  <img id="skillWap" src="./static/svg/skillWap.svg" alt="" srcset="">
+</div>
