@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2171F7&center=true&vCenter=true&width=435&lines=Hey+there!+I%E2%80%99m+Wen+Huang.;Progress%2C+not+perfection." alt="Typing SVG" />
+</a>
+
 ### Hi there 👋😄
 
 <!--
@@ -24,5 +28,5 @@ Here are some ideas to get you started:
   <img align="center" height="180px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=QuantumHW&hide=javascript,html,css" />
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2171F7&center=true&vCenter=true&width=435&lines=Hey+there!+I%E2%80%99m+Wen+Huang.;Progress%2C+not+perfection." alt="Typing SVG" /></a>
+
 
