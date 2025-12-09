@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=QuantumHW&theme=github_dark_dimmed&show_icons=true&count_private=true" />
 </a>
@@ -27,6 +28,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=QuantumHW&hide=javascript,html,css" />
 </a>
-
-
+-->
 
